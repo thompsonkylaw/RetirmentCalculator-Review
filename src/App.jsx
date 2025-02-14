@@ -316,7 +316,7 @@ const App = () => {
       </div>
     </div>
   );
-};
+}; 
 
 
 function calculateValue(expetedReturn, monthlySaving, existingAsset) {
