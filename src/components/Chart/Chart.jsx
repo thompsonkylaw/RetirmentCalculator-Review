@@ -28,7 +28,7 @@ const ChartComponent = ( props) => {
           />
           <YAxis
             label={{ 
-              value: 'Amount', 
+              value: 'Amounts', 
               angle: -90, 
               position: 'left',
               offset: 10
