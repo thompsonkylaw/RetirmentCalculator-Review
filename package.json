@@ -1,5 +1,5 @@
 {
-  "name": "vite-react-template",
+  "name": "RetirementCa",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -12,6 +12,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "recharts": "^2.15.1",
+    "RetirementCa": "file:",
     "vite-react-template": "file:"
   },
   "devDependencies": {
